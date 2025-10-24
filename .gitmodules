@@ -1,6 +1,9 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/karbivskyi/MineBench-BackEnd.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/karbivskyi/MineBench-FrontEnd.git
+[submodule "MineBench-CPU-ZEPH"]
+	path = MineBench-CPU-ZEPH
+	url = https://github.com/karbivskyi/MineBench-CPU-ZEPH.git
+[submodule "MineBench-GPU-RVN"]
+	path = MineBench-GPU-RVN
+	url = https://github.com/karbivskyi/MineBench-GPU-RVN.git
+[submodule "MineBench-UI"]
+	path = MineBench-UI
+	url = https://github.com/karbivskyi/minebench-ui.git
