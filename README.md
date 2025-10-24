@@ -15,7 +15,7 @@ Built for the **Colosseum Cypherpunks Hackathon**, MineBench explores how blockc
 ## Quick Start
 
 ```bash
-git clone git clone --recursive https://github.com/karbivskyi/MineBench-dApp.git
+git clone --recursive https://github.com/karbivskyi/MineBench-dApp.git
 ```
 
 ## Vision
